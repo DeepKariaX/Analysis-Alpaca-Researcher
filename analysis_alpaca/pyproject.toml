@@ -58,9 +58,9 @@ ai = [
 analysis-alpaca = "analysis_alpaca.core.server:run_server"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/analysis-alpaca"
-Repository = "https://github.com/yourusername/analysis-alpaca.git"
-Issues = "https://github.com/yourusername/analysis-alpaca/issues"
+Homepage = "https://github.com/DeepKariaX/Analysis-Alpaca-Researcher"
+Repository = "https://github.com/DeepKariaX/Analysis-Alpaca-Researcher.git"
+Issues = "https://github.com/DeepKariaX/Analysis-Alpaca-Researcher/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

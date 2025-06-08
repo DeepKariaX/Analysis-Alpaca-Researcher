@@ -1,12 +1,27 @@
 # AnalysisAlpaca 🦙
 
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![MCP Compatible](https://img.shields.io/badge/MCP-compatible-green.svg)](https://github.com/modelcontextprotocol)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-orange.svg)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/DeepKariaX/Analysis-Alpaca-Researcher/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/DeepKariaX/Analysis-Alpaca-Researcher)](https://github.com/DeepKariaX/Analysis-Alpaca-Researcher/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/DeepKariaX/Analysis-Alpaca-Researcher)](https://github.com/DeepKariaX/Analysis-Alpaca-Researcher/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/DeepKariaX/Analysis-Alpaca-Researcher)](https://github.com/DeepKariaX/Analysis-Alpaca-Researcher/network)
+
+</div>
+
 A production-ready MCP (Model Context Protocol) server that enables comprehensive research and analysis capabilities for Claude and other MCP-compatible AI assistants. This server integrates web and academic search functionality with an optional web interface for interactive research and AI-powered report generation.
 
 ## 🚀 Quick Start
 
 ```bash
 # 1. Clone and navigate to the project
-cd analysis_alpaca
+git clone https://github.com/DeepKariaX/Analysis-Alpaca-Researcher.git
+cd Analysis-Alpaca-Researcher
 
 # 2. Install dependencies (use virtual environment recommended)
 python -m venv venv
@@ -120,8 +135,8 @@ analysis_alpaca/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd analysis_alpaca
+git clone https://github.com/DeepKariaX/Analysis-Alpaca-Researcher.git
+cd Analysis-Alpaca-Researcher
 
 # Create virtual environment (recommended)
 python -m venv venv
@@ -204,7 +219,13 @@ The system uses a hierarchical configuration approach:
 
 ## 🚀 Usage
 
-### MCP Server
+### MCP Server (for Claude Desktop)
+
+Add to your Claude Desktop configuration:
+
+**macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+**Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
+**Linux**: `~/.config/Claude/claude_desktop_config.json`
 
 ```json
 {
@@ -706,4 +727,4 @@ MIT License - see LICENSE file for details.
 
 ---
 
-For the latest updates and detailed changelog, visit the [GitHub repository](https://github.com/yourusername/analysis-alpaca).
+For the latest updates and detailed changelog, visit the [GitHub repository](https://github.com/DeepKariaX/Analysis-Alpaca-Researcher).
