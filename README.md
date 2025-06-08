@@ -3,10 +3,7 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![MCP Compatible](https://img.shields.io/badge/MCP-compatible-green.svg)](https://github.com/modelcontextprotocol)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-orange.svg)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/DeepKariaX/Analysis-Alpaca-Researcher/pulls)
 [![GitHub Issues](https://img.shields.io/github/issues/DeepKariaX/Analysis-Alpaca-Researcher)](https://github.com/DeepKariaX/Analysis-Alpaca-Researcher/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/DeepKariaX/Analysis-Alpaca-Researcher)](https://github.com/DeepKariaX/Analysis-Alpaca-Researcher/stargazers)
