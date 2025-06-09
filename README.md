@@ -32,9 +32,6 @@ python http_server.py
 # API documentation: http://localhost:8001/docs
 ```
 
-**For Web Interface (Optional):**
-See the [Web Interface](#-web-interface-optional) section below for manual setup instructions.
-
 ## 📋 Table of Contents
 
 - [Features](#-features)
